@@ -1,0 +1,118 @@
+
+.links:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(89, 6, 89);
+    padding: 10px;
+    border-radius: 12px;
+    font-size: 25px;
+    
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 12px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+header {
+    text-align: center;
+    background-color: rgb(89, 6, 89);
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    border-radius: 12px;
+}
+.header-images {
+    justify-content: center;
+    height: 550px;
+    border-radius: 20px; 
+    padding: 7px;  
+}
+.header-nav {
+    margin: 5px;
+}
+footer {
+    text-align: right;
+}
+.back { 
+    background-color: rgb(89, 6, 89);
+    color: white;
+}
+main {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    font-size: 18px;
+    text-align: center;
+}
+body {
+    background-color: rgb(149, 57, 180);
+
+}
+.Discography { 
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    width: 75%;
+    display: inline-block;
+    text-align: left;
+}
+.main-content{
+    display: inline-block;
+    width: 75%  ;
+}
+.main-image {
+    float: left;
+    width: 450px;
+    margin-right: 15px;
+    border-radius: 15px;
+}
+.body-image {
+    float: right;
+    height: 500px;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+.Discography2{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    width: 75%;
+    display: inline-block;
+    text-align: left;
+}
+.body-image2 {
+    float: left;
+    height: 500px;
+    margin-right: 15px;
+    margin-top: 12px;
+}
+section{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    display: inline-block;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    list-style-type: none;
+}
+.last-image {
+    float: right;
+    width: 450px;
+    margin-right: 15px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.last-content {
+    display: inline-block;
+    width: 75%;
+}
